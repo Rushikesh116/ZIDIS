@@ -1,0 +1,3 @@
+../mtkernal/lib/libtm/sysdepend/no_device/tm_com.c:27:13:tm_snd_dat	1
+../mtkernal/lib/libtm/sysdepend/no_device/tm_com.c:32:13:tm_rcv_dat	1
+../mtkernal/lib/libtm/sysdepend/no_device/tm_com.c:37:13:tm_com_init	1

@@ -1,0 +1,7 @@
+../mtkernal/kernel/tstdlib/string.c:24:7:knl_memset	6
+../mtkernal/kernel/tstdlib/string.c:65:7:knl_memcpy	2
+../mtkernal/kernel/tstdlib/string.c:79:4:knl_strlen	2
+../mtkernal/kernel/tstdlib/string.c:91:7:knl_strcpy	2
+../mtkernal/kernel/tstdlib/string.c:103:7:knl_strncpy	4
+../mtkernal/kernel/tstdlib/string.c:123:5:knl_strcmp	3
+../mtkernal/kernel/tstdlib/string.c:138:7:knl_strcat	3

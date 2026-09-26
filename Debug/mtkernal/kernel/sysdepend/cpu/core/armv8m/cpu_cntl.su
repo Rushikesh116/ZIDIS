@@ -1,0 +1,7 @@
+C:/Users/Raamrithik/OneDrive/Documents/ZIDIS_Node/mtkernal/include/tk/sysdepend/cpu/core/armv8m/syslib.h:75:13:out_w	16	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/cpu_cntl.c:35:13:knl_set_reg	40	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/cpu_cntl.c:80:13:knl_get_reg	40	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/cpu_cntl.c:129:11:knl_set_cpr	32	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/cpu_cntl.c:156:11:knl_get_cpr	32	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/cpu_cntl.c:183:13:knl_force_dispatch	8	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/cpu_cntl.c:191:13:knl_dispatch	8	static

@@ -1,0 +1,2 @@
+../Core/Src/zidis_core/mlp.c:31:6:Mlp_Init	4	static
+../Core/Src/zidis_core/mlp.c:35:14:Mlp_Classify	120	static

@@ -1,0 +1,6 @@
+../mtkernal/lib/libtk/sysdepend/cpu/core/armv8m/int_armv8m.c:36:13:set_basepri	16	static,ignoring_inline_asm
+../mtkernal/lib/libtk/sysdepend/cpu/core/armv8m/int_armv8m.c:45:11:get_basepri	16	static,ignoring_inline_asm
+../mtkernal/lib/libtk/sysdepend/cpu/core/armv8m/int_armv8m.c:56:11:disint	16	static,ignoring_inline_asm
+../mtkernal/lib/libtk/sysdepend/cpu/core/armv8m/int_armv8m.c:71:13:SetCpuIntLevel	16	static
+../mtkernal/lib/libtk/sysdepend/cpu/core/armv8m/int_armv8m.c:79:12:GetCpuIntLevel	16	static
+../mtkernal/lib/libtk/sysdepend/cpu/core/armv8m/int_armv8m.c:97:13:EnableInt_nvic	24	static

@@ -1,0 +1,9 @@
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/exc_hdr.c:36:23:knl_nmi_handler	8	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/exc_hdr.c:45:23:knl_hardfault_handler	24	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/exc_hdr.c:72:23:knl_memmanage_handler	8	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/exc_hdr.c:81:23:knl_busfault_handler	8	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/exc_hdr.c:90:23:knl_usagefault_handler	8	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/exc_hdr.c:99:23:knl_securefault_handler	8	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/exc_hdr.c:108:23:knl_svcall_handler	8	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/exc_hdr.c:117:23:knl_debugmon_handler	8	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/exc_hdr.c:126:23:knl_default_handler	16	static

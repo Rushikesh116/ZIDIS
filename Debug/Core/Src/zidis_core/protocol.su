@@ -1,0 +1,5 @@
+../Core/Src/zidis_core/protocol.c:6:6:Protocol_Init	24	static
+../Core/Src/zidis_core/protocol.c:17:6:Protocol_Tick	32	static
+../Core/Src/zidis_core/protocol.c:46:6:Protocol_OnBeaconRx	16	static
+../Core/Src/zidis_core/protocol.c:54:6:Protocol_OnClaimRx	24	static
+../Core/Src/zidis_core/protocol.c:65:14:Protocol_EvaluateQuorum	40	static

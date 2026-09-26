@@ -1,0 +1,3 @@
+C:/Users/Raamrithik/OneDrive/Documents/ZIDIS_Node/mtkernal/include/tk/sysdepend/cpu/core/armv8m/syslib.h:75:13:out_w	1
+C:/Users/Raamrithik/OneDrive/Documents/ZIDIS_Node/mtkernal/include/tk/sysdepend/cpu/core/armv8m/syslib.h:92:11:in_w	1
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/sys_start.c:54:13:knl_start_mtkernel	3

@@ -1,0 +1,3 @@
+C:/Users/Raamrithik/OneDrive/Documents/ZIDIS_Node/mtkernal/include/tk/sysdepend/cpu/core/armv8m/syslib.h:75:13:out_w	16	static
+C:/Users/Raamrithik/OneDrive/Documents/ZIDIS_Node/mtkernal/include/tk/sysdepend/cpu/core/armv8m/syslib.h:92:11:in_w	16	static
+../mtkernal/kernel/sysdepend/cpu/core/armv8m/sys_start.c:54:13:knl_start_mtkernel	24	static,ignoring_inline_asm

@@ -1,0 +1,2 @@
+../mtkernal/kernel/tkernel/objname.c:136:12:td_ref_dsname	1
+../mtkernal/kernel/tkernel/objname.c:154:12:td_set_dsname	1

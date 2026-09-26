@@ -1,0 +1,4 @@
+C:/Users/Raamrithik/OneDrive/Documents/ZIDIS_Node/mtkernal/kernel/knlinc/../sysdepend/cpu/core/armv8m/cpu_status.h:62:13:knl_isTaskIndependent	1
+../mtkernal/kernel/tkernel/misc_calls.c:27:12:tk_ref_sys	13
+../mtkernal/kernel/tkernel/misc_calls.c:63:12:tk_ref_ver	1
+../mtkernal/kernel/tkernel/misc_calls.c:88:12:td_ref_sys	13

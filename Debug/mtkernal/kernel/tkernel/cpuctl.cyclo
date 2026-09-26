@@ -1,0 +1,9 @@
+C:/Users/Raamrithik/OneDrive/Documents/ZIDIS_Node/mtkernal/kernel/knlinc/../sysdepend/cpu/core/armv8m/cpu_status.h:62:13:knl_isTaskIndependent	1
+../mtkernal/kernel/tkernel/cpuctl.c:29:12:tk_dis_dsp	4
+../mtkernal/kernel/tkernel/cpuctl.c:45:12:tk_ena_dsp	5
+../mtkernal/kernel/tkernel/cpuctl.c:64:12:tk_set_reg	15
+../mtkernal/kernel/tkernel/cpuctl.c:93:12:tk_get_reg	15
+../mtkernal/kernel/tkernel/cpuctl.c:124:12:tk_set_cpr	18
+../mtkernal/kernel/tkernel/cpuctl.c:156:12:tk_get_cpr	18
+../mtkernal/kernel/tkernel/cpuctl.c:196:12:td_set_reg	8
+../mtkernal/kernel/tkernel/cpuctl.c:225:12:td_get_reg	8

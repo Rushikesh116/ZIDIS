@@ -1,0 +1,3 @@
+../mtkernal/kernel/tstdlib/bitop.c:36:1:knl_bitclr	3
+../mtkernal/kernel/tstdlib/bitop.c:56:1:knl_bitset	3
+../mtkernal/kernel/tstdlib/bitop.c:76:1:knl_bitsearch1	9
